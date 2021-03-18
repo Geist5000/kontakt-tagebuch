@@ -1,0 +1,23 @@
+.page-title{
+    text-align: center;
+    display: block;
+}
+
+.form-group{
+    margin-bottom: 1em;
+}
+
+label{
+    display: inline-block;
+    margin-bottom: 0.3em;
+}
+
+p{
+    font-size: large;
+}
+
+main{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
